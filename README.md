@@ -37,18 +37,20 @@ Aktif belajar dan mengembangkan project menggunakan Git, GitHub, dan Laravel.
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="mailto:pratammmakhairul@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+<a href="mailto:pratammmakhairul@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/khairulp01" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+<a href="https://instagram.com/khairulp01">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://facebook.com/KhairulPratamma" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
+<a href="https://facebook.com/KhairulPratamma">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40"/>
 </a>
 
 </p>
