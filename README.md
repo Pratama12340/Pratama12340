@@ -56,4 +56,4 @@ Saat ini saya aktif mengembangkan project latihan untuk meningkatkan pemahaman d
 _(Tambahkan ini jika ingin menampilkan statistik otomatis dari GitHub)_
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratama12340&show_icons=true&theme=tokyonight)
