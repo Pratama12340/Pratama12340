@@ -35,7 +35,6 @@ Aktif belajar dan mengembangkan project menggunakan Git, GitHub, dan Laravel.
 
 ---
 
-## 🌐 Connect With Me
 
 <p align="center">
 
