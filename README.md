@@ -37,20 +37,8 @@ Aktif belajar dan mengembangkan project menggunakan Git, GitHub, dan Laravel.
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://instagram.com/USERNAME" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-pratammmakhairul%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratammmakhairul@gmail.com)
 
-<a href="https://facebook.com/USERNAME" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-@khairulp01-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khairulp01)
 
-<a href="https://linkedin.com/in/USERNAME" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://twitter.com/USERNAME" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
-</a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-Khairul%20Pratamma-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/KhairulPratamma)
