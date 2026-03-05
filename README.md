@@ -34,9 +34,7 @@ Aktif belajar dan mengembangkan project menggunakan Git, GitHub, dan Laravel.
 - Berkontribusi pada open source project
 
 ---
-## 📊 GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratama12340&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pratama12340&theme=tokyonight)
 
 <p align="center">
 
