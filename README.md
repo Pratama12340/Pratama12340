@@ -10,6 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,laravel,php)](https://skillicons.dev)
 
+<p align="left">
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
