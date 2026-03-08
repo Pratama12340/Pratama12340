@@ -14,6 +14,8 @@ Hi, I'm Khairul Pratama 👋<br>Informatics student and junior web development.A
 ![](https://nirzak-streak-stats.vercel.app/?user=Pratama12340&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratama12340&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratama12340&layout=compact)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pratama12340&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
