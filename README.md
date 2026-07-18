@@ -1,4 +1,12 @@
-![khairul](img/img2.png)
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-f030b396-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-f030b396-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-f030b396-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-f030b396-light.svg">
+    <img src="./assets/hero/agent-console-f030b396-dark.svg" alt="Animated GitHub Profile Agent Console" width="100%">
+  </picture>
+</p>
 
 # 💫 About Me:
 Hi, I'm Khairul Pratama 👋<br>Informatics student and junior web development.Always learning and building projects to grow my skills. Always learning and building projects to grow my skills.
