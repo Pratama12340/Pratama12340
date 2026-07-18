@@ -29,11 +29,11 @@ Informatics student and junior web developer. Always learning and building proje
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratama12340&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&hide_border=true&include_all_commits=true&count_private=true&border_radius=0" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pratama12340&background=0B1220&stroke=0B1220&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8&hide_border=true&border_radius=0" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pratama12340&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&hide_border=true&include_all_commits=true&count_private=true&border_radius=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratama12340&background=0B1220&stroke=0B1220&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8&hide_border=true&border_radius=0" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratama12340&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pratama12340&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0" />
 </p>
 
 ## 📈 Contribution Graph
@@ -41,15 +41,10 @@ Informatics student and junior web developer. Always learning and building proje
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratama12340&bg_color=0B1220&color=22D3EE&line=22D3EE&point=22D3EE&area=true&hide_border=true" />
 </p>
 
-## 🔝 Top Contributed Repo
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Pratama12340&limit=5&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&border_color=0B1220&combine_all_yearly_contributions=true" />
-</p>
+
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Pratama12340&icon=0&color=0" />
-  <br>
   <img src="https://komarev.com/ghpvc/?username=Pratama12340&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
