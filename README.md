@@ -8,30 +8,53 @@
   </picture>
 </p>
 
-# 💫 About Me:
-Hi, I'm Khairul Pratama 👋<br>Informatics student and junior web development.Always learning and building projects to grow my skills. Always learning and building projects to grow my skills.
+# 💫 About Me
+Hi, I'm **Khairul Pratama** 👋<br>
+Informatics student and junior web developer. Always learning and building projects to grow my skills.
 
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=22D3EE)](https://www.instagram.com/khairulp01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/khairul-pratama-a71446376)
+[![Pinterest](https://img.shields.io/badge/Pinterest-0B1220?style=for-the-badge&logo=pinterest&logoColor=22D3EE)](https://pin.it/3dc3Tpay9)
+[![Email](https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:pratammakhairul05@gmail.com) 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khairulp01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/khairul-pratama-a71446376) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/3dc3Tpay9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratammakhairul05@gmail.com) 
+## 💻 Tech Stack
+![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=22D3EE)
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=22D3EE)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=22D3EE)
+![PHP](https://img.shields.io/badge/PHP-0B1220?style=for-the-badge&logo=php&logoColor=22D3EE)
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE)
+![Laravel](https://img.shields.io/badge/Laravel-0B1220?style=for-the-badge&logo=laravel&logoColor=22D3EE)
+![Canva](https://img.shields.io/badge/Canva-0B1220?style=for-the-badge&logo=canva&logoColor=22D3EE)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pratama12340&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pratama12340&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratama12340&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratama12340&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&hide_border=true&include_all_commits=true&count_private=true&border_radius=0" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pratama12340&background=0B1220&stroke=0B1220&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8&hide_border=true&border_radius=0" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratama12340&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0" />
+</p>
+
 ## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratama12340&theme=tokyo-night)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pratama12340&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratama12340&bg_color=0B1220&color=22D3EE&line=22D3EE&point=22D3EE&area=true&hide_border=true" />
+</p>
+
+## 🔝 Top Contributed Repo
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Pratama12340&limit=5&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&border_color=0B1220&combine_all_yearly_contributions=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pratama12340&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Pratama12340&icon=0&color=0" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Pratama12340&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=Pratama12340&color=blue)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
