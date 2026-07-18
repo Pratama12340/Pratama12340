@@ -82,10 +82,20 @@ Giliran bermain: Bidak <!-- BEGIN TURN -->black<!-- END TURN -->.
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pratama12340&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0" />
 </p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratama12340&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 ## 📈 Contribution Graph
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratama12340&bg_color=0B1220&color=22D3EE&line=22D3EE&point=22D3EE&area=true&hide_border=true" />
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratama12340/Pratama12340/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratama12340/Pratama12340/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pratama12340/Pratama12340/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 
