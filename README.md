@@ -27,6 +27,27 @@ Informatics student and junior web developer. Always learning and building proje
 ![Laravel](https://img.shields.io/badge/Laravel-0B1220?style=for-the-badge&logo=laravel&logoColor=22D3EE)
 ![Canva](https://img.shields.io/badge/Canva-0B1220?style=for-the-badge&logo=canva&logoColor=22D3EE)
 
+## ♟️ Permainan Catur Komunitas
+
+Ini adalah permainan catur terbuka di mana SIAPA SAJA bisa bermain melawan komunitas!
+Giliran bermain: Bidak <!-- BEGIN TURN -->putih<!-- END TURN -->.
+
+<!-- BEGIN CHESS BOARD -->
+*(Papan catur akan muncul di sini setelah game dimulai!)*
+<!-- END CHESS BOARD -->
+
+**Silakan pilih langkah Anda:**
+<!-- BEGIN MOVES LIST -->
+*(Daftar langkah yang sah akan muncul di sini)*
+<!-- END MOVES LIST -->
+
+<details>
+  <summary>5 Langkah Terakhir</summary>
+<!-- BEGIN LAST MOVES -->
+*(Belum ada)*
+<!-- END LAST MOVES -->
+</details>
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pratama12340&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&icon_color=22D3EE&hide_border=true&include_all_commits=true&count_private=true&border_radius=0" />
